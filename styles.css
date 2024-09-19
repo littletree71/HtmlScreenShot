@@ -1,0 +1,11 @@
+.selected-element {
+    outline: 2px solid #ff4081 !important;
+    box-shadow: 0 0 0 4px rgba(255, 64, 129, 0.3) !important;
+    transition: all 0.3s ease !important;
+  }
+  
+  .hover-element {
+    outline: 2px dashed #03a9f4 !important;
+    box-shadow: 0 0 0 4px rgba(3, 169, 244, 0.3) !important;
+    transition: all 0.3s ease !important;
+  }
